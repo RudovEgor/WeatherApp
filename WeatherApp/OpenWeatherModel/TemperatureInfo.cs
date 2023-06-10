@@ -8,7 +8,6 @@ namespace WeatherApp.OpenWeather
 {
     internal class TemperatureInfo
     {
-        private double _temp;
         public double Temp { get;set; }
         private double _pressure;
         public double Pressure//давление

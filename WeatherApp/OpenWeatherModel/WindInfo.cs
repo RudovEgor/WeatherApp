@@ -10,6 +10,5 @@ namespace WeatherApp.OpenWeather
     {
         public double Speed { get; set; }
         public double Deg { get; set; }//направление ветра в градусах
-        public double Gust { get; set; }//порыв ветра
     }
 }

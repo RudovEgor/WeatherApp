@@ -75,11 +75,11 @@
     <Compile Include="FormMain.Designer.cs">
       <DependentUpon>FormMain.cs</DependentUpon>
     </Compile>
-    <Compile Include="OpenWeatherModel\CloudsClass.cs" />
+    <Compile Include="OpenWeatherModel\CloudsInfo.cs" />
     <Compile Include="OpenWeatherModel\WeatherResponse.cs" />
-    <Compile Include="OpenWeatherModel\WeatherClass.cs" />
+    <Compile Include="OpenWeatherModel\WeatherInfo.cs" />
     <Compile Include="OpenWeatherModel\TemperatureInfo.cs" />
-    <Compile Include="OpenWeatherModel\WindClass.cs" />
+    <Compile Include="OpenWeatherModel\WindInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormMain.resx">

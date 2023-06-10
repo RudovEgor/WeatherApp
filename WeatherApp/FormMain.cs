@@ -13,7 +13,6 @@ namespace WeatherApp
         {
             InitializeComponent();
         }
-
         private async void FormMain_Load(object sender, EventArgs e)
         {
             WebRequest request = WebRequest.Create($"https://api.openweathermap.org/data/2.5/weather?q=Moscow&&lang=ru&units=metric&appid=6795ddd7e16d97d855cc5fc2c2cee7ce");
