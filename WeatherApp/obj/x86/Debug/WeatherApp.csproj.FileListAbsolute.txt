@@ -1,0 +1,13 @@
+C:\Users\egork\source\repos\WeatherApp\WeatherApp\bin\x86\Debug\WeatherApp.exe.config
+C:\Users\egork\source\repos\WeatherApp\WeatherApp\bin\x86\Debug\WeatherApp.exe
+C:\Users\egork\source\repos\WeatherApp\WeatherApp\bin\x86\Debug\WeatherApp.pdb
+C:\Users\egork\source\repos\WeatherApp\WeatherApp\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\egork\source\repos\WeatherApp\WeatherApp\obj\x86\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\egork\source\repos\WeatherApp\WeatherApp\obj\x86\Debug\WeatherApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\egork\source\repos\WeatherApp\WeatherApp\obj\x86\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\egork\source\repos\WeatherApp\WeatherApp\obj\x86\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\egork\source\repos\WeatherApp\WeatherApp\obj\x86\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\egork\source\repos\WeatherApp\WeatherApp\obj\x86\Debug\WeatherApp.csproj.CopyComplete
+C:\Users\egork\source\repos\WeatherApp\WeatherApp\obj\x86\Debug\WeatherApp.exe
+C:\Users\egork\source\repos\WeatherApp\WeatherApp\obj\x86\Debug\WeatherApp.pdb
+C:\Users\egork\source\repos\WeatherApp\WeatherApp\obj\x86\Debug\WeatherApp.FormMain.resources
