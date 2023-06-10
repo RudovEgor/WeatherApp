@@ -28,10 +28,10 @@ namespace WeatherApp
             panelImage.BackgroundImage = openWeather.Weather[0].BitmapIcon;
             label1.Text = openWeather.Weather[0].Description;
             label3.Text = $"{openWeather.Main.Temp}°C";
-            label4.Text = "Скорость (м/c):" + openWeather.Wind.Speed.ToString();
-            label5.Text = "Направление °:" + openWeather.Wind.Deg.ToString();
-            label6.Text = "Влажность (%):" + openWeather.Main.humidity.ToString();
-            label7.Text = "Давление (мм):" + ((int)openWeather.Main.Pressure).ToString();
+            label4.Text = $"Скорость: {openWeather.Wind.Speed} м/c";
+            label5.Text = $"Направление: {openWeather.Wind.Deg}°";
+            label6.Text = $"Влажность: {openWeather.Main.humidity} %";
+            label7.Text = $"Давление: {(int)openWeather.Main.Pressure} мм";
             label8.Text = openWeather.Name.ToString();
             #endregion
         }
