@@ -1,7 +1,7 @@
 # WeatherApp
 Приложение WinForms, показываеющее погоду, написанное на C#
 --
-![Снимок](https://github.com/RudovEgor/WeatherApp/assets/91718087/89ac65af-2d59-45d2-a8ef-b9053f0404f9)
+![Снимок](https://github.com/RudovEgor/WeatherApp/assets/91718087/ede8490b-e914-4c8e-ba6a-a405ad6e5fbb)
 --
 Планируется добавить:
 - добавить возможность просмотра погоды на неделю вперед
