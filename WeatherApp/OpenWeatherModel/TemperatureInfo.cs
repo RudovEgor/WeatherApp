@@ -16,7 +16,5 @@ namespace WeatherApp.OpenWeather
             set { _pressure = value/1.3332239; }
         }
         public double humidity { get; set; }//влажность
-
-        
     }
 }

@@ -14,7 +14,7 @@ namespace WeatherApp.OpenWeather
         {
             get
             {
-                return new Bitmap(Image.FromFile($"Icons/{Icon}.png"));
+                return new Bitmap(Image.FromFile($"Icons/{Icon}.png"));//выбор иконок
             }
         }
     }
