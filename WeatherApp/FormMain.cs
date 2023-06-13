@@ -47,5 +47,22 @@ namespace WeatherApp
             result[0] = char.ToUpper(result[0]);
             return new string(result);
         }
+
+        private void FormMain_MouseDown(object sender, MouseEventArgs e)//перетаскивание формы
+        {
+            Capture = false;
+            var msg = Message.Create(Handle, 0xa1, new IntPtr(2), IntPtr.Zero);
+            WndProc(ref msg);
+        }
+        private void buttonExit_Click(object sender, EventArgs e)//закрытие формы
+        {
+            Close();
+        }
+
+        private void buttonMinimized_Click(object sender, EventArgs e)//сворачивание формы
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
     }
 }
